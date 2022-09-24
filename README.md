@@ -10,7 +10,7 @@ Código para validar CPF, CNPJ, Telefone e Cep
 | :fire: Curso     | https://cursos.alura.com.br/course/python-validacao-dados
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/guisjc23/valida-o-de-dados-no-padr-o-nacional/blob/main/validacao.jpg#vitrinedev)
+![](https://raw.githubusercontent.com/guisjc23/valida-o-de-dados-no-padr-o-nacional/main/validacao.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
