@@ -1,4 +1,4 @@
-# Valida dados no padrao nacional
+# Valida dados no padrão nacional
 
 Código para validar CPF, CNPJ, Telefone e Cep
 
